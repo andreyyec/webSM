@@ -1,0 +1,25 @@
+
+//Bootstrap
+	@import '../node_modules/bootstrap-sass-grid/sass/bootstrap-sass-grid';
+	@import "../node_modules/bootstrap-sass-grid/sass/bootstrap/variables";
+	@import "../node_modules/bootstrap-sass-grid/sass/bootstrap/mixins";
+
+	// Reset and dependencies
+	@import "../node_modules/bootstrap-sass-grid/sass/bootstrap/normalize";
+	@import "../node_modules/bootstrap-sass-grid/sass/bootstrap/print";
+
+	// Core CSS
+	@import "../node_modules/bootstrap-sass-grid/sass/bootstrap/scaffolding";
+	@import "../node_modules/bootstrap-sass-grid/sass/bootstrap/grid";
+
+
+// Global elements
+	@import 'global/colors';
+	@import 'global/fonts';
+	@import 'global/mixins';
+	@import 'global/layout';
+
+//Pages
+
+//Components
+	@import 'components/test';

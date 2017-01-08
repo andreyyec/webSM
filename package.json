@@ -2,7 +2,9 @@
   "name": "websm",
   "version": "0.0.1",
   "description": "",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap-sass-grid": "^4.0.0"
+  },
   "engines": {
     "node": ">=0.10.0"
   },
